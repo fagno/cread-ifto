@@ -26,17 +26,17 @@
 //3+| mesclar linha tabela
 
 
-= CREAD
+= Centro de Referência em Educação a Distância - CREAD
 
-O Cread tem a missão de contribuir com a promoção da educação, com a oferta de ensino de qualidade em todos os níveis através da Educação a Distância, formando cidadãos críticos, conscientes e que, ao longo de sua vida, sejam comprometidos com o desenvolvimento da ciência, da tecnologia e da inovação, contribuindo para a melhoria da vida em sociedade.
+O CREAD tem a missão de contribuir com a promoção da educação, com a oferta de ensino de qualidade em todos os níveis através da Educação a Distância, formando cidadãos críticos, conscientes e que, ao longo de sua vida, sejam comprometidos com o desenvolvimento da ciência, da tecnologia e da inovação, contribuindo para a melhoria da vida em sociedade.
 
 IMPORTANT: http://www.ifto.edu.br/cread
 
-image::imagem-cread.png[width=640,height=380]
+//image::imagem-cread.png[width=640,height=380]
 
 == Quem Somos
 
-O Centro de Referência em Educação a Distância (Cread) do IFTO constitui mais uma política de oferta de cursos do IFTO, ampliando e implementando as diretrizes institucionais e sobretudo visando contribuir na esfera da formação profissional e social, propiciando o aumento da oferta de educação pública, gratuita e de qualidade em todos os níveis de ensino com uma capilaridade estadual.
+O CREAD do IFTO constitui mais uma política de oferta de cursos do IFTO, ampliando e implementando as diretrizes institucionais e sobretudo visando contribuir na esfera da formação profissional e social, propiciando o aumento da oferta de educação pública, gratuita e de qualidade em todos os níveis de ensino com uma capilaridade estadual.
 
 == Tutorial Moodle
 

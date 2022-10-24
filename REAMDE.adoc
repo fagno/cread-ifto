@@ -1,0 +1,59 @@
+//caminho padrão para imagens
+:imagesdir: images
+:figure-caption: Figura
+:doctype: book
+
+//gera apresentacao
+//pode se baixar os arquivos e add no diretório
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
+
+//GERAR ARQUIVOS
+//make slides
+//make ebook
+
+//Estilo do Sumário
+:toc2: 
+//após os : insere o texto que deseja ser visível
+:toc-title: Sumário
+:figure-caption: Figura
+//numerar titulos
+:numbered:
+:source-highlighter: highlightjs
+:icons: font
+:chapter-label:
+:doctype: book
+:lang: pt-BR
+//3+| mesclar linha tabela
+
+
+= CREAD
+
+O Cread tem a missão de contribuir com a promoção da educação, com a oferta de ensino de qualidade em todos os níveis através da Educação a Distância, formando cidadãos críticos, conscientes e que, ao longo de sua vida, sejam comprometidos com o desenvolvimento da ciência, da tecnologia e da inovação, contribuindo para a melhoria da vida em sociedade.
+
+== Quem Somos
+
+O Centro de Referência em Educação a Distância (Cread) do IFTO constitui mais uma política de oferta de cursos do IFTO, ampliando e implementando as diretrizes institucionais e sobretudo visando contribuir na esfera da formação profissional e social, propiciando o aumento da oferta de educação pública, gratuita e de qualidade em todos os níveis de ensino com uma capilaridade estadual.
+
+== Estudante
+
+Área destinada aos estudantes CREAD.
+
+1. link:moodle-alunos/[Moodle]
+
+2. link:moodle-mobile/[Moodle Mobile]
+
+== Colaboradores
+
+Área destinada aos colaboradores do CREAD.
+
+1. link:moodle-colaboradores/[Moodle]
+
+2. link:moodle-mobile/[Moodle Mobile]
+
+== Professores
+
+Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.
+
+1. link:https://fagno.github.io/moodle-tutorial/[Moodle]
+
+2. link:moodle-mobile/[Moodle Mobile]

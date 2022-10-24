@@ -27,11 +27,11 @@
 
 link:https://fagno.github.io/cread-ifto/[HOME]
 
-= Tutorial Moodle IFTO
+= Tutorial Moodle CREAD
 
 == Primeiro Acesso
 
-Para ter acesso a plataforma Moodle (https://moodle.ifto.edu.br) é necessário que os alunos estejam cadastrado na mesma.
+Para ter acesso a plataforma Moodle (https://moodle.ifto.edu.br) é necessário que os estudantes estejam matriculados no sistema acadêmico.
 
 IMPORTANT: atendimento para questões dúvidas/técnicas: coava.cread@ifto.edu.br
 
@@ -39,7 +39,7 @@ IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico
 
 == Vídeo de apresentação para primeiro acesso
 
-O vídeo a seguir apresenta o acesso através do Moodle do Campus Palmas, no entanto, o que muda em relação ao Moodle da Reitoria é apenas o endereço de acesso.
+O vídeo a seguir apresenta como efetuar o acesso na plataforma Moodle.
 
 video::v_vQvUifMm0[youtube,width=640,height=480]
 
@@ -51,7 +51,7 @@ video::wQP0E-NxFv0[youtube,width=640,height=480]
 
 === Enviando uma tarefa para o professor em um curso no Moodle
 
-Nesta aula é apresentado como o esudante pode enviar um arquivo em qualquer formato para o professor.
+Nesta aula é apresentado como o estudante pode enviar um arquivo em qualquer formato para o professor.
 
 video::UEm-jTFH7Mk[youtube,width=640,height=480]
 
@@ -74,7 +74,7 @@ Fórum tem muitas utilidades, como:
 - Para discussões entre os professores (utilize um fórum oculto);
 - Uma central de ajuda onde tutores e estudantes podem conseguir ajuda;
 - Uma área de suporte um-para-um para comunicações particulares entre professor e estudante (usando um fórum com grupos separados e um estudante por grupo);
-- Para atividades de extensão, por exemplo "brainstorms" para estudantes sugerirem e avaliarem idéias.
+- Para atividades de extensão, por exemplo "brainstorms" para estudantes sugerirem e avaliarem ideias.
 
 video::orrQ8yMFpgY[youtube,width=640,height=480]
 //video::5Ey-DiMt6N0[youtube,width=640,height=480]
@@ -92,7 +92,7 @@ Chats são especialmente úteis quando um grupo de bate-papo não é capaz de se
 - Estudantes na experiência de trabalho se reúnem para discutir suas experiências entre si e com seu professor;
 - Crianças mais jovens que usam chat em casa à noite como uma introdução controlada (monitorada) para o mundo das redes sociais;
 - A sessão de perguntas e respostas com um orador convidado em um local diferente;
-- Sessões para ajudar os estudantes a se prepararem para testes em que o professor ou outros estudantes, colocariam exemplos de perguntaso professor pode criar eventos no calendário para um curso do Moodle.
+- Sessões para ajudar os estudantes a se prepararem para testes do professor.
 
 video::oxTp0JhN4Gg[youtube,width=640,height=480]
 //video::dzuMpFjoEJA[youtube,width=640,height=480]

@@ -42,7 +42,7 @@ O Centro de Referência em Educação a Distância (Cread) do IFTO constitui mai
 
 1. link:moodle-alunos/[Alunos]
 
-1. link:https://fagno.github.io/moodle-tutorial/moodle-professores//[Professores]
+1. link:https://fagno.github.io/moodle-tutorial/moodle-professores/[Professores]
 
 1. link:moodle-colaboradores/[Colaboradores]
 
@@ -52,6 +52,6 @@ O Centro de Referência em Educação a Distância (Cread) do IFTO constitui mai
 
 == Sistema Acadêmico SUAP
 
-1. https://drive.google.com/file/d/156U1ZI9zZNCF38A3DA5UX7quRlx1L67h/view?usp=sharing[Manual SUAP-EDU: Acesso do Estudante v.1]
+1. link:SUAP/[Manual SUAP-EDU: Acesso do Estudante v.1]
 
 1. link:https://suap.ifto.edu.br/comum/solicitar_trocar_senha/[Esqueceu a senha?]

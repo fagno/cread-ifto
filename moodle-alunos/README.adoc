@@ -35,7 +35,9 @@ Para ter acesso a plataforma Moodle (https://moodle.ifto.edu.br) é necessário 
 
 IMPORTANT: atendimento para questões dúvidas/técnicas: coava.cread@ifto.edu.br
 
-IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SUAP. 
+IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SUAP
+
+Você pode ter acesso ao manual SUAP-EDU do estudante link:https://fagno.github.io/cread-ifto/SUAP/[AQUI]. 
 
 == Vídeo de apresentação para primeiro acesso
 

@@ -43,7 +43,7 @@ Você pode ter acesso ao manual SUAP-EDU do estudante link:https://fagno.github.
 
 O vídeo a seguir apresenta como efetuar o acesso na plataforma Moodle.
 
-video::v_vQvUifMm0[youtube,width=640,height=480]
+video::v7VXcZA6ris[youtube,width=640,height=480]
 
 === Enviando e recebendo mensagens através do Moodle
 

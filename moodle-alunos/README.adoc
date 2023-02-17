@@ -33,15 +33,17 @@
 
 Para ter acesso a plataforma Moodle (https://moodle.ifto.edu.br) é necessário que os estudantes estejam matriculados no sistema acadêmico.
 
-IMPORTANT: atendimento para questões dúvidas/técnicas: coava.cread@ifto.edu.br
-
-IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SUAP
-
-Você pode ter acesso ao manual SUAP-EDU do estudante link:https://fagno.github.io/cread-ifto/SUAP/[AQUI]. 
+NOTE: Todos os estudantes devem informar no campo de `usuário` o número de sua matrícula e no campo de `senha` a senha padrão @IFTO+DATA DE NASCIMENTO (Ex.: @IFTO01012001). Após efetuar o primeiro acesso, orientamos alterar sua senha para uma de uso pessoal.
 
 O vídeo a seguir apresenta como efetuar o acesso na plataforma Moodle.
 
 video::v7VXcZA6ris[youtube,width=640,height=480]
+
+IMPORTANT: Alunos devem utilizar os mesmos dados de acesso ao sistema acadêmico SUAP
+
+NOTE: atendimento para questões dúvidas/técnicas: coava.cread@ifto.edu.br
+
+Você pode ter acesso ao manual SUAP-EDU do estudante link:https://fagno.github.io/cread-ifto/SUAP/[AQUI]. 
 
 == Enviando e recebendo mensagens através do Moodle
 

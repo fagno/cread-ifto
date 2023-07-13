@@ -48,7 +48,7 @@ O CREAD do IFTO constitui mais uma política de oferta de cursos do IFTO, amplia
 
 == Tutorial Moodle Mobile
 
-1. link:https://fagno.github.io/moodle-tutorial/moodle-mobile/[Moodle Mobile]
+1. link:https://fagno.github.io/moodle-tutorial/plataforma-moodle/moodle-mobile/[Moodle Mobile]
 
 == Sistema Acadêmico SUAP
 

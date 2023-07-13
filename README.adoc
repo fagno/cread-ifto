@@ -42,7 +42,7 @@ O CREAD do IFTO constitui mais uma política de oferta de cursos do IFTO, amplia
 
 1. link:moodle-alunos/[Alunos]
 
-1. link:https://fagno.github.io/moodle-tutorial/moodle-professores/[Professores]
+1. link:https://fagno.github.io/moodle-tutorial/plataforma-moodle/moodle-professores/[Professores]
 
 1. link:moodle-colaboradores/[Colaboradores]
 
